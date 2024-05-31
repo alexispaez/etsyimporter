@@ -1,0 +1,11 @@
+name = "etsyimporter"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Jose Alexis Paez Thurgood"]
+maintainers = ["Jose Alexis Paez Thurgood <jose.alexis.paez.thurgood@gmail.com>"]
+maintainers-logins = ["alexispaez"]
+
+executables = ["etsyimporter"]
+[[depends-on]]
+aws = "^23.0.0"
